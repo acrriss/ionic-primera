@@ -1,0 +1,7 @@
+{
+  "name": "Miaplicion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
